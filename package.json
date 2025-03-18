@@ -1,0 +1,21 @@
+{
+  "name": "s63_dumbwaytodie",
+  "version": "1.0.0",
+  "description": "**Dumb Ways to Die** is a hilariously tragic web app that allows users to log in and maintain a personalized list of the weirdest and most bizarre ways people have met their end. Whether it's getting stuck in a vending machine, challenging a goose to a fight, or mistaking a superglue bottle for eye drops—this app is here to document the most ridiculous send-offs in human history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S63_dumbWaysToDiee.git"
+  },
+  "keywords": [],
+  "author": "shvngishrma",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S63_dumbWaysToDiee/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S63_dumbWaysToDiee#readme"
+}
